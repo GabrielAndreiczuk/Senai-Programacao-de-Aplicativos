@@ -1,0 +1,15 @@
+E:\CURSO\PA\C#\Atividade1.1\obj\Debug\Atividade1.1.csproj.AssemblyReference.cache
+E:\CURSO\PA\C#\Atividade1.1\obj\Debug\Atividade1.1.csproj.SuggestedBindingRedirects.cache
+E:\CURSO\PA\C#\Atividade1.1\obj\Debug\Atividade1.1.csproj.CoreCompileInputs.cache
+E:\CURSO\PA\C#\Atividade1.1\bin\Debug\Atividade1.1.exe.config
+E:\CURSO\PA\C#\Atividade1.1\bin\Debug\Atividade1.1.exe
+E:\CURSO\PA\C#\Atividade1.1\bin\Debug\Atividade1.1.pdb
+E:\CURSO\PA\C#\Atividade1.1\obj\Debug\Atividade1.1.exe
+E:\CURSO\PA\C#\Atividade1.1\obj\Debug\Atividade1.1.pdb
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\bin\Debug\Atividade1.1.exe.config
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\bin\Debug\Atividade1.1.exe
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\bin\Debug\Atividade1.1.pdb
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\obj\Debug\Atividade1.1.csproj.AssemblyReference.cache
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\obj\Debug\Atividade1.1.csproj.CoreCompileInputs.cache
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\obj\Debug\Atividade1.1.exe
+D:\CURSO\PA\C#\Atividade1 - Gabriel Andreiczuk\obj\Debug\Atividade1.1.pdb
