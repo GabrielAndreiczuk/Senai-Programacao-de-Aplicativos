@@ -1,0 +1,7 @@
+D:\CURSO\PA\C#\Atividade8\bin\Debug\Atividade8.exe.config
+D:\CURSO\PA\C#\Atividade8\bin\Debug\Atividade8.exe
+D:\CURSO\PA\C#\Atividade8\bin\Debug\Atividade8.pdb
+D:\CURSO\PA\C#\Atividade8\obj\Debug\Atividade8.csproj.AssemblyReference.cache
+D:\CURSO\PA\C#\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+D:\CURSO\PA\C#\Atividade8\obj\Debug\Atividade8.exe
+D:\CURSO\PA\C#\Atividade8\obj\Debug\Atividade8.pdb
